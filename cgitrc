@@ -1,0 +1,3 @@
+# Turn off .tar.gz snapshots for this repository.  The repo size is large
+# and we keep hitting timeouts on kernel.org
+snapshots=0
